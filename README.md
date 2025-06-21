@@ -1,6 +1,8 @@
 # Makiti Technical Test – React Native
 
 ## 📱 UI Screen Reproduction
+![Uploading Screenshot_20250621-010557.png…]()
+
 
 This project is a reproduction of a mobile UI screen based on a Figma design provided for Makiti's technical test.
 
