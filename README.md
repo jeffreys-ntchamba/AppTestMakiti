@@ -2,9 +2,6 @@
 
 ## 📱 UI Screen Reproduction
 
-![Screenshot_20250621-010557](https://github.com/user-attachments/assets/fc470261-5b7b-4213-b9c4-f8ff7e7cd134)
-
-
 This project is a reproduction of a mobile UI screen based on a Figma design provided for Makiti's technical test.
 
 ### ✅ Requirements Met
@@ -22,3 +19,6 @@ git clone https://github.com/jeffreys-ntchamba/AppTestMakiti
 cd AppTestMakiti
 npm install
 npm start
+
+
+![Screenshot_20250621-010557](https://github.com/user-attachments/assets/fc470261-5b7b-4213-b9c4-f8ff7e7cd134)
